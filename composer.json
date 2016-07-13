@@ -1,0 +1,25 @@
+{
+  "name": "kuma-guy/sentry-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Shingo Kumagai",
+      "email": "shingo4092@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.4",
+    "ray/di": "^2.3",
+    "sentry/sentry": "^0.22.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ray\\SentryModule\\": "src/"
+    }
+  },
+  "autoload-dev":{
+    "psr-4":{
+      "Ray\\SentryModule\\": "tests/"
+    }
+  }
+}
