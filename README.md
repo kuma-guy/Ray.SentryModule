@@ -23,4 +23,4 @@ class AppModule extends AbstractModule
 
 ### DI trait
 
- * [RavenClientInject](https://github.com/kuma-guy/Ray.SentryModule/blob/master/src/RavenClientInject.php) for `RavenClientInject`
+ * [RavenClientInject](https://github.com/kuma-guy/Ray.SentryModule/blob/master/src/RavenClientInject.php) for `Raven_Client`
