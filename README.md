@@ -1,5 +1,9 @@
 # Ray.SentryModule
 
+[![Build Status](https://travis-ci.org/kuma-guy/Ray.SentryModule.svg?branch=master)](https://travis-ci.org/kuma-guy/Ray.SentryModule)
+
+[Sentry](https://github.com/getsentry/sentry-php) module for Ray.Di
+
 ## Installation
 
 ### Composer install
